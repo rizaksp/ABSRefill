@@ -1,12 +1,12 @@
 /*copyright by webmechanicx*/
 
-@import "bootstrap.min.css";
-@import "video-js.min.css";
-@import "et-line-font.css";
-/*@import "font-awesome.min.css";*/
-@import "owl.carousel.min.css";
-@import "owl.theme.default.min.css";
-@import "animate.min.css";
+@import url(https://raw.githubusercontent.com/miselputra/larakost-pulsa/master/assets/css/bootstrap.min.css);
+@import url(https://raw.githubusercontent.com/miselputra/larakost-pulsa/master/assets/css/video-js.min.css);
+@import url(https://raw.githubusercontent.com/miselputra/larakost-pulsa/master/assets/css/et-line-font.css);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css);
+@import url(https://raw.githubusercontent.com/miselputra/larakost-pulsa/master/assets/css/owl.carousel.min.css);
+@import url(https://raw.githubusercontent.com/miselputra/larakost-pulsa/master/assets/css/owl.theme.default.min.css);
+@import url(https://raw.githubusercontent.com/miselputra/larakost-pulsa/master/assets/css/animate.min.css);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:300,400,600,700,900);
 ::-moz-selection {
     background: #43b4da;
