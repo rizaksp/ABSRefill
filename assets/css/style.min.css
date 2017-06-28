@@ -223,8 +223,8 @@ section h3 {
 }
 
 .btn-secondary {
-    background-color: #1576d1;
-    border-color: #1576d1;
+    background-color: #006EAA;
+    border-color: #006EAA;
     color: #fff
 }
 
@@ -281,7 +281,7 @@ section h3 {
 .btn-buy-plan:hover,
 .btn-buy-plan:focus {
     color: #fff;
-    background-color: #1576d1
+    background-color: #006EAA
 }
 
 .platform-btn {
@@ -400,7 +400,7 @@ section h3 {
 .affix.navbar-default .navbar-nav>li>a>span:focus,
 .affix.navbar-default .navbar-nav>li>a>span:hover {
     background-color: transparent;
-    border: 1px solid #1576d1;
+    border: 1px solid #006EAA;
     border-radius: 5px;
     padding: 5px 10px;
 }
@@ -422,7 +422,7 @@ section h3 {
 .affix.navbar-default .navbar-nav>li>a:focus,
 .affix.navbar-default .navbar-nav>li>a:hover {
     background-color: transparent;
-    color: #1576d1
+    color: #006EAA
 }
 
 .affix.navbar-default {
@@ -445,7 +445,7 @@ section h3 {
     width: 22px;
     height: 2px;
     border-radius: 1px;
-    background-color: #1576d1
+    background-color: #006EAA
 }
 
 .navbar-default .navbar-brand {
@@ -533,7 +533,7 @@ section h3 {
 
 .navbar-default .navbar-toggle:focus .icon-bar,
 .navbar-default .navbar-toggle:hover .icon-bar {
-    background-color: #1576d1
+    background-color: #006EAA
 }
 
 .navbar-default .navbar-nav>.open>a,
@@ -724,7 +724,7 @@ section h3 {
 }
 
 #feature .block-icon {
-    color: #1576d1
+    color: #006EAA
 }
 
 .box-content {
@@ -850,7 +850,7 @@ section h3 {
 }
 
 #platform .medium-list ul li.active .medium {
-    border: 1px solid #1576d1
+    border: 1px solid #006EAA
 }
 
 #platform .medium-list .medium-left {
@@ -866,7 +866,7 @@ section h3 {
 }
 
 #platform .medium-list i {
-    color: #1576d1
+    color: #006EAA
 }
 
 #platform .medium-list ul li:before,
@@ -887,14 +887,14 @@ section h3 {
 
 #platform .medium-list ul li.active:before {
     left: -200px;
-    background-color: #1576d1
+    background-color: #006EAA
 }
 
 #platform .medium-list ul li:after {
     width: 10px;
     height: 10px;
     background-color: #fff;
-    border: 1px solid #1576d1;
+    border: 1px solid #006EAA;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     border-radius: 50%
@@ -997,7 +997,7 @@ section#screenshots .owl-prev i {
 
 section#screenshots .owl-next:hover i,
 section#screenshots .owl-prev:hover i {
-    color: #1576d1
+    color: #006EAA
 }
 
 #slide-screen .owl-stage-outer:before,
@@ -1118,7 +1118,7 @@ section#screenshots .owl-carousel .owl-item img {
 
 .panel-pricing .price-heading i {
     font-size: 48px;
-    color: #1576d1
+    color: #006EAA
 }
 
 .panel-pricing .price-heading .fa {
@@ -1135,7 +1135,7 @@ section#screenshots .owl-carousel .owl-item img {
 
 .panel-pricing .price-label h3 {
     font-size: 48px;
-    color: #1576d1;
+    color: #006EAA;
     margin: 0
 }
 
@@ -1165,7 +1165,7 @@ section#screenshots .owl-carousel .owl-item img {
 }
 
 .panel-pricing.popular .btn-buy-plan {
-    background-color: #1576d1;
+    background-color: #006EAA;
     color: #fff
 }
 
@@ -1397,7 +1397,7 @@ section#screenshots .owl-carousel .owl-item img {
 }
 
 #contactus .contact-info .medium i {
-    color: #1576d1
+    color: #006EAA
 }
 
 #contactus .contact-info .medium-left {
@@ -1456,7 +1456,7 @@ div.twt-item .twt-img-ct {
 .twt-row a.username,
 .twt-row .fa-twitter,
 .twt-row a:hover {
-    color: #1576d1
+    color: #006EAA
 }
 
 .twt-row .permalink {
@@ -1740,7 +1740,7 @@ footer .social-links li a.ico-instagram {
 
 footer a,
 footer p {
-    font-size: 14px;
+    font-size: 14px
 }
 
 footer a {
@@ -1749,7 +1749,7 @@ footer a {
 
 footer a:hover,
 .copyright .inline-menu a:hover {
-    color: #1576d1
+    color: #006EAA
 }
 
 footer a,
